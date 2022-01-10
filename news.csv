@@ -1,0 +1,48 @@
+article_date,article_tag,article_title,author_description,article_author,article_url
+01-04-2022,"AI, ML & Data Engineering","Google Trains 280 Billion Parameter AI Language Model Gopher
+                        ","Google subsidiary DeepMind announced Gopher, a 280-billion-parameter AI natural language processing (NLP) model. Based on the Transformer architecture and trained on a 10.5TB corpus called MassiveText, Gopher outperformed the current state-of-the-art on 100 of 124 evaluation tasks.
+                    ",Anthony Alford,https://www.infoq.com//news/2022/01/deepmind-gopher/?topicPageSponsorship=5ba0d608-7c70-42e6-8c2d-26df6b90fc47
+12/28/2021,"AI, ML & Data Engineering","Microsoft Open-Sources Distributed Machine Learning Library SynapseML
+                        ","Microsoft announced the release of SynapseML, an open-source library for creating and managing distributed machine learning (ML) pipelines. SynapseML runs on Apache Spark, provides a language-agnostic API abstraction over several datastores, and integrates with several existing ML technologies, including Open Neural Network Exchange (ONNX).
+                    ",Anthony Alford,https://www.infoq.com//news/2021/12/microsoft-synapseml/?topicPageSponsorship=5ba0d608-7c70-42e6-8c2d-26df6b90fc47
+12/21/2021,"AI, ML & Data Engineering","DeepMind Releases Weather Forecasting AI Deep Generative Models of Rainfall
+                        ","DeepMind open-sourced a dataset and trained model snapshot for Deep Generative Models of Rainfall (DGMR), an AI system for short-term precipitation forecasts. In evaluations conducted by 58 expert meteorologists comparing it to other existing methods, DGMR was ranked first in accuracy and usefulness in 89% of test cases.
+                    ",Anthony Alford,https://www.infoq.com//news/2021/12/deepmind-weather-forecasting/?topicPageSponsorship=5ba0d608-7c70-42e6-8c2d-26df6b90fc47
+12/16/2021,Cloud,"Azure Space Introduces Azure Orbital in Preview and New Geospatial Capabilities
+                        ","Microsoft recently announced new satellite connectivity and geospatial capabilities for Azure Space. The cloud provider introduced the preview of Azure Orbital, a ground station as-a-service that provides communication and control of satellites, and added  geospatial and data analytics partnerships with Esri, Blackshark.ai, and Orbital Insight.
+                    ",Renato Losio,https://www.infoq.com//news/2021/12/azure-space-orbital/?topicPageSponsorship=5ba0d608-7c70-42e6-8c2d-26df6b90fc47
+12/15/2021,"AI, ML & Data Engineering","AWS Launches SageMaker Studio Lab, Free Tool to Learn and Experiment with Machine Learning
+                        ","AWS has introduced SageMaker Studio Lab, a free service to help developers learn machine-learning techniques and experiment with the technology. SageMaker Studio Lab provides users with all of the basics to get started, including a JupyterLab IDE, model training on CPUs and GPUs and 15 GB of persistent storage.
+                    ",Daniel Dominguez,https://www.infoq.com//news/2021/12/aws-sagemaker-studio-lab/?topicPageSponsorship=5ba0d608-7c70-42e6-8c2d-26df6b90fc47
+12/14/2021,"AI, ML & Data Engineering","MIT Researchers Investigate Deep Learning's Computational Burden
+                        ","A team of researchers from MIT, Yonsei University, and University of Brasilia have launched a new website, Computer Progress, which analyzes the computational burden from over 1,000 deep learning research papers. Data from the site show that computational burden is growing faster than the expected rate, suggesting that algorithms still have room for improvement.
+                    ",Anthony Alford,https://www.infoq.com//news/2021/12/mit-deep-learning-burden/?topicPageSponsorship=5ba0d608-7c70-42e6-8c2d-26df6b90fc47
+12/13/2021,Java,"Hazelcast Announces a New Unified Platform with Version 5.0
+                        ","Hazelcast, the distributed computation and storage platform, has announced the release of the Hazelcast Platform version 5.0. This new platform unifies the existing products Hazelcast IMDG and Hazelcast Jet.  InfoQ spoke about this new release with John DesJardins, CTO at Hazelcast.
+                    ",Andrea Messetti,https://www.infoq.com//news/2021/12/hazelcast-5-unified-platform/?topicPageSponsorship=5ba0d608-7c70-42e6-8c2d-26df6b90fc47
+12-07-2021,"AI, ML & Data Engineering","Chip Huyen on Streaming-First Infrastructure for Real-Time ML
+                        ","At the recent QCon Plus online conference, Chip Huyen gave a talk on continual machine learning titled ""Streaming-First Infrastructure for Real-Time ML."" Some key takeaways included the advantages of a streaming-first infrastructure for real-time and continual machine learning, the benefits of real-time ML, and the challenges of implementing real-time ML.
+                    ",Anthony Alford,https://www.infoq.com//news/2021/12/huyen-realtime-ml/?topicPageSponsorship=5ba0d608-7c70-42e6-8c2d-26df6b90fc47
+12-07-2021,Cloud,"Get Consistent Access to Third-Party APIs with AWS Data Exchange for APIs
+                        ","During the recent AWS re:Invent in Las Vegas, the company announced the AWS Data Exchange for APIs. This new capability enables customers to find, subscribe to, and use third-party API products from providers on AWS Data Exchange.
+                    ",Steef-Jan Wiggers,https://www.infoq.com//news/2021/12/aws-data-exchange-for-apis/?topicPageSponsorship=5ba0d608-7c70-42e6-8c2d-26df6b90fc47
+12-03-2021,"AI, ML & Data Engineering","AMD Introduces Its Deep-Learning Accelerator Instinct MI200 Series GPUs
+                        ","In its recent Accelerated Data Center Premiere Keynote, AMD unveiled its MI200 accelerator series Instinct MI250x and slightly lower-end Instinct MI250 GPUs. Designed with CDNA-2 architecture and TSMC’s 6nm FinFET lithography, the high-end MI250X provides 47.9 TFLOPs peak double precision performance and memory that will allow training larger deep networks by minimizing model sharding.
+                    ",Sabri Bolkar,https://www.infoq.com//news/2021/12/amd-deep-learning-accelerator/?topicPageSponsorship=5ba0d608-7c70-42e6-8c2d-26df6b90fc47
+12-02-2021,"AI, ML & Data Engineering","Katharine Jarmul on Machine Learning at the Edge
+                        ","At the recent QCon Plus online conference, Katharine Jarmul gave a talk on federated machine learning titled ""Machine Learning at the Edge."" She covered several federated ML architectures and use cases, discussed pros and cons of federated ML, and presented tips on how to decide whether federated ML is a good solution for a given problem.
+                    ",Anthony Alford,https://www.infoq.com//news/2021/12/jarmul-ml-edge/?topicPageSponsorship=5ba0d608-7c70-42e6-8c2d-26df6b90fc47
+12-01-2021,Cloud,"AWS Introduces Amazon Redshift Serverless
+                        ","As part of a trend towards serverless analytics options, AWS announced the public preview of Amazon Redshift Serverless. The latest version of the managed data warehouse service targets deployments where it is difficult to manage capacity due to variable workloads or unpredictable spikes.
+                    ",Renato Losio,https://www.infoq.com//news/2021/12/amazon-redshift-serverless/?topicPageSponsorship=5ba0d608-7c70-42e6-8c2d-26df6b90fc47
+12-01-2021,Cloud,"Microsoft Announces the General Availability of NDm A100 v4 Series Virtual Machines
+                        ","Recently, Microsoft announced the general availability (GA) of a brand-new virtual machine (VM) series in Azure, the NDm A100 v4 Series - featuring NVIDIA A100 Tensor Core 80 GB GPUs. This high-performance computing (HPC) VM is designed to deliver high performance, scalability, and cost efficiency for various real-world HPC workloads.
+                    ",Steef-Jan Wiggers,https://www.infoq.com//news/2021/12/azure-vm-ndm-series/?topicPageSponsorship=5ba0d608-7c70-42e6-8c2d-26df6b90fc47
+11/30/2021,"AI, ML & Data Engineering","Facebook Open-Sources GHN-2 AI for Fast Initialization of Deep-Learning Models
+                        ","A team from Facebook AI Research (FAIR) and the University of Guelph have open-sourced an improved Graph HyperNetworks (GHN-2) meta-model that predicts initial parameters for deep-learning neural networks. GHN-2 executes in less than a second on a CPU and predicts values for computer vision (CV) networks that achieve up to 77% top-1 accuracy on CIFAR-10 with no additional training.
+                    ",Anthony Alford,https://www.infoq.com//news/2021/11/facebook-ghn-meta-model/?topicPageSponsorship=5ba0d608-7c70-42e6-8c2d-26df6b90fc47
+11/28/2021,DevOps,"D2iQ Releases DKP 2.0 to Run Kubernetes Apps at Scale
+                        ","D2iQ recently released version 2.0 of the D2iQ Kubernetes Platform (DKP), a platform to help organizations run Kubernetes workloads at scale.
+
+The new release provides a single pane of glass for managing multi-cluster environments and running applications across any infrastructure including private cloud, public cloud, or at the network edge.
+                    ",Mostafa Radwan,https://www.infoq.com//news/2021/11/d2iq-dkp-version-2-0/?topicPageSponsorship=5ba0d608-7c70-42e6-8c2d-26df6b90fc47
